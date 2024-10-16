@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sourishharh
-- 👀 I’m interested in Java , Frontend Devolopment
-- 🌱 I’m currently learning Frontend Devolopment
+- 👀 I’m interested in Java , Software Engineering
+- 🌱 I’m currently learning  Devolopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  Java is to Javascript what car is to Carpet
 
 <!---
 Sourishharh/Sourishharh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
