@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sourishharh
+- 👋 Hi, I’m Sourishharh
 - 👀 I’m interested in Java , Software Engineering , Data Science
 - 🌱 I’m currently learning  Development
 - 💞️ I’m looking to collaborate on ...
