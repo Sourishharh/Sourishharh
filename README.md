@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sourish Harh
 - 👀 I’m interested in Java , Software Engineering , Data Science
-- 🌱 I’m currently learning  Development
+- 🌱 I’m currently learning  Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... harhsourish677@gmail.com
 - 😄 Pronouns: (He/Him)
