@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sourishharh/Sourishharh/blob/main/your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Sourish Harh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="coding" width="300" margin-top: 2000px src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourishharh&label=Profile%20views&color=0e75b6&style=flat" alt="sourishharh" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning Web Development **Like JavaScript, React JS**
+- 🌱 I’m currently learning Web Development 
 
 - 👨‍💻 All of my projects are available at [I will Share later](I will Share later)
 
